@@ -3,7 +3,7 @@
 <img align="right" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsha-pingali&label=Profile%20views&color=0e75b6&style=flat" alt="harsha-pingali" /> </p>
 
-- 🔭 I’m currently working on **Blink-Chat** (A Social Chat Application That Is Built using **MERN** Stack and is empovered by some of the vastly used services like **Socket Io** and **Cloudinary**)
+- 🔭 I’m currently working on **Blink-Chat** (A Social Chat Application That Is Built using **MERN** Stack and is empowered by some of the vastly used services like **Socket Io** and **Cloudinary**)
 
 - 🌱 I’m currently learning **Amazon Web Services (AWS), with a primary focus on mastering key services such as EC2, S3, Lambda, and IAM. Additionally, I am actively exploring advanced topics like infrastructure as code (IaC) using AWS CloudFormation and Terraform, and delving into serverless architecture**
 
